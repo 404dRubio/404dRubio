@@ -1,25 +1,18 @@
-<h1>Hi, I'm David!<h1>
+<h1>Hi, I'm David! </h2>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
-+
-  - 
 
+ - [Active Directory Home Lab](https://github.com/404dRubio/ActiveDirectoryLab)
+
+
+<h2> 📄 Certifications </h2>
+
+- [Red Hat System Administration I (RH124)](https://i.imgur.com/NIZpChp.png)
 
 
 <h2> 🤳 Connect with me:</h2>
 
+[<img align="left" alt="DavidRubio | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<!--
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[linkedin]: https://www.linkedin.com/in/404davidrubio/
