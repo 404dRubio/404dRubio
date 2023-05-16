@@ -7,6 +7,7 @@
  
  <h2>💻 Software Development Projects:</h2>
  
+ - [OSRS Item searcher](https://github.com/404dRubio/OSRS-profit-itemlookup/tree/main)
  - [pong](https://github.com/404dRubio/pong)
 
 
